@@ -4,7 +4,7 @@
 
 ![Bee Healthy Logo](beeHealthy/img/LogoBeeSBVOEVN.png)
 
-Bee Healthy is a Health Tracker Application created for the purpose of monitoring health in a singular person with hopes of discovering any abnormalities quickly. Its functions are primarily for one user. 
+Bee Healthy is a Health Tracker Application created for the purpose of monitoring health in a single person with hopes of discovering any abnormalities quickly. Its functions are primarily for one user. 
 
 ## **Tools and Technologies Used**
 
